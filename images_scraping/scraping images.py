@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import os
 
 
 def getdata(url):
@@ -9,7 +10,9 @@ def getdata(url):
 def get_image_from_website(url, single_barcode):
     htmldata = getdata(url)
     soup = BeautifulSoup(htmldata, 'html.parser')
-
+    directory = single_barcode
+    path = os.path.join(os.getcwd(), directory)
+    os.mkdir(path)
     for idx, item in enumerate(soup.find_all(class_="swiper-slide")):
         if idx==4:
             return
@@ -28,6 +31,7 @@ def get_image_from_website(url, single_barcode):
         url_image="https://www.carrefour.it"+item.get('data-src')
         response = requests.get(url_image)
         image_name=single_barcode+image_name
+        image_name=path + "/" + image_name
         file = open(image_name, "wb")#dobbiamo recuperare noi la estensione #creare una cartella dove salvare tutti i file pagina per pagina
         file.write(response.content)
         file.close()
