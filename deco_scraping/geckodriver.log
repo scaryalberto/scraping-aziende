@@ -1,0 +1,714 @@
+1613575818932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6OSuaASsGVcS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613575821712	Marionette	INFO	Listening on port 38521
+1613575821769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613575821784	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613575828033	Marionette	INFO	Stopped listening on port 38521
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613575836473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VY09WoEpaNuJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613575838120	Marionette	INFO	Listening on port 43131
+1613575838193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613575838204	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613575840602	Marionette	INFO	Stopped listening on port 43131
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613576218615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JT8wVc7iRxVY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576220374	Marionette	INFO	Listening on port 41439
+1613576220434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613576220442	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576223865	Marionette	INFO	Stopped listening on port 41439
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613576241205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G6B97eqmew3r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576242888	Marionette	INFO	Listening on port 44833
+1613576242923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613576242932	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576244332	Marionette	INFO	Stopped listening on port 44833
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613576309097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rpqOFuUjNUFo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576310802	Marionette	INFO	Listening on port 45267
+1613576310926	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576310935	Marionette	ERROR	[15] No reply from Marionette:Register
+1613576323315	Marionette	INFO	Stopped listening on port 45267
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613576331698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JbBRGIp2UT7f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576333394	Marionette	INFO	Listening on port 40379
+1613576333417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613576333424	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576349579	Marionette	INFO	Stopped listening on port 40379
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613576351864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t8UGSocTmq3O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576353622	Marionette	INFO	Listening on port 40403
+1613576353686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613576353697	Marionette	ERROR	[15] No reply from Marionette:Register
+1613576374336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hBM2IEh6Sqhj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576375934	Marionette	INFO	Listening on port 46405
+1613576375954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613576375963	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576539909	Marionette	INFO	Stopped listening on port 40403
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613576541190	Marionette	INFO	Stopped listening on port 46405
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613576731611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AP5EubDl6b3Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576736033	Marionette	INFO	Listening on port 39565
+1613576736180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613576736212	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613576837022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pnSb9jK5ZiiU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576839129	Marionette	INFO	Listening on port 40825
+1613576839241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613576839252	Marionette	ERROR	[18] No reply from Marionette:Register
+1613576864931	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1613576924855	Marionette	INFO	Stopped listening on port 40825
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613576954890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9vVoeAVnkweF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576956528	Marionette	INFO	Listening on port 41721
+1613576956628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613576956640	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613576971122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LdYIKXtUAPYu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576973013	Marionette	INFO	Listening on port 36431
+1613576973053	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613576973064	Marionette	ERROR	[15] No reply from Marionette:Register
+1613577002584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eaav8GUBOfAX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577004311	Marionette	INFO	Listening on port 43085
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577004409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613577004420	Marionette	ERROR	[18] No reply from Marionette:Register
+1613577167987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kSY2s05HyQ39"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577170060	Marionette	INFO	Listening on port 37433
+1613577170114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613577170128	Marionette	ERROR	[15] No reply from Marionette:Register
+1613577197633	Marionette	ERROR	[35] No reply from Marionette:Register
+1613577349236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B2Z2CUgQXq9b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577351047	Marionette	INFO	Listening on port 46287
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577351174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613577351185	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613577365294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z6lWY4JxgN1h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577367453	Marionette	INFO	Listening on port 44767
+1613577367524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613577367537	Marionette	ERROR	[15] No reply from Marionette:Register
+1613577389820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2QVGL6pwCQYW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577391864	Marionette	INFO	Listening on port 43701
+1613577391968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613577391985	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613577421358	Marionette	INFO	Stopped listening on port 44767
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613577422353	Marionette	INFO	Stopped listening on port 43701
+1613577426434	Marionette	INFO	Stopped listening on port 46287
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:91:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:603:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+1613577427985	Marionette	INFO	Stopped listening on port 37433
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613577428868	Marionette	INFO	Stopped listening on port 43085
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613577430115	Marionette	INFO	Stopped listening on port 36431
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613577437171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kNqEkXqOVcvn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577439124	Marionette	INFO	Listening on port 40811
+1613577439193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613577439205	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613577508176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8KoVCSjbUAzV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577510055	Marionette	INFO	Listening on port 44829
+1613577510121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613577510134	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613577899628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6Qb2BaYP65Rh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613577901410	Marionette	INFO	Listening on port 40689
+1613577901459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613577901470	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613578248875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UpI97hOJsDSS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613578252853	Marionette	INFO	Listening on port 33267
+1613578252934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613578252958	Marionette	ERROR	[18] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613578319699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k00KQXgBg95z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613578323959	Marionette	INFO	Listening on port 35025
+1613578324067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613578324105	Marionette	ERROR	[18] No reply from Marionette:Register
+1613578346433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gSqdf6Ulj23n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613578350355	Marionette	INFO	Listening on port 43257
+1613578350484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613578350512	Marionette	ERROR	[18] No reply from Marionette:Register
+1613578397812	Marionette	INFO	Stopped listening on port 43257
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613578475042	Marionette	ERROR	[35] No reply from Marionette:Register
+1613578549279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PScVkQsLSfGJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613578551117	Marionette	INFO	Listening on port 36155
+1613578551198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613578551207	Marionette	ERROR	[15] No reply from Marionette:Register
+1613578640598	Marionette	INFO	Stopped listening on port 36155
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613578646484	Marionette	INFO	Stopped listening on port 44829
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613578666682	Marionette	INFO	Stopped listening on port 35025
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613578756618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qBxm1tNK6HDI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613578758364	Marionette	INFO	Listening on port 44595
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613578758455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613578758464	Marionette	ERROR	[15] No reply from Marionette:Register
+1613578779108	Marionette	INFO	Stopped listening on port 44595
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613578877582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qDGL3yACTzh5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613578879313	Marionette	INFO	Listening on port 45963
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613578879407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613578879416	Marionette	ERROR	[15] No reply from Marionette:Register
+1613578970070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VYHOy6rXGa8n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613578971914	Marionette	INFO	Listening on port 38749
+1613578972004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613578972013	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613579424797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hCsA6AMIRYSq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613579426717	Marionette	INFO	Listening on port 39825
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613579426818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613579426828	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613579994035	Marionette	INFO	Stopped listening on port 45963
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613580455146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q4LXaUE3OA6C"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613580456832	Marionette	INFO	Listening on port 42849
+1613580456865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613580456873	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613580490306	Marionette	INFO	Stopped listening on port 42849
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613580984464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ARNBROVFnXyW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613580986286	Marionette	INFO	Listening on port 41501
+1613580986385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613580986395	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ravenjs.com/3.17.0/raven.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1613581764045	Marionette	INFO	Stopped listening on port 41501
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613581783396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tw4JD3zrwanD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613581785029	Marionette	INFO	Listening on port 38255
+1613581785119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613581785128	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613581946586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JjrWZ0pUNuE6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613581948374	Marionette	INFO	Listening on port 41545
+1613581948409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613581948417	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1613581955763	Marionette	INFO	Stopped listening on port 38255
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613582429439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yTxUO9MRBS9U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613582431066	Marionette	INFO	Listening on port 34785
+1613582431164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613582431178	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613582489501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4aSA9Oagy9l0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613582491161	Marionette	INFO	Listening on port 41015
+1613582491221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613582491230	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613582867747	Marionette	INFO	Stopped listening on port 41015
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613599518360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GguTmyK9T3SW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613599521313	Marionette	INFO	Listening on port 45731
+1613599521385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613599521398	Marionette	ERROR	[18] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1613599558828	Marionette	INFO	Stopped listening on port 45731
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613599889629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gg1pGzFf3k4B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613599891496	Marionette	INFO	Listening on port 43939
+1613599891554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613599891565	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613600032523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Zx3RY2YAVZNs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613600034468	Marionette	INFO	Listening on port 37021
+1613600034546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613600034562	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1613600196864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SljkvGU5JRIH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613600198834	Marionette	INFO	Listening on port 46347
+1613600198889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613600198913	Marionette	ERROR	[15] No reply from Marionette:Register
+1613600270620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uG6hX59PjC5o"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613600272611	Marionette	INFO	Listening on port 43217
+1613600272649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613600272668	Marionette	ERROR	[15] No reply from Marionette:Register
+1613600470855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e4pF4FoUBjlZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613600472729	Marionette	INFO	Listening on port 45363
+1613600472798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613600472808	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613600488951	Marionette	INFO	Stopped listening on port 43217
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613600489541	Marionette	INFO	Stopped listening on port 46347
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613600673492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EN9xc3GyGYKM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613600675260	Marionette	INFO	Listening on port 38531
+1613600675310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613600675324	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613600989077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z1nuZKFy9Ddp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613600990924	Marionette	INFO	Listening on port 33973
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613600991002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613600991011	Marionette	ERROR	[15] No reply from Marionette:Register
+1613601062421	Marionette	INFO	Stopped listening on port 33973
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613601465344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8ixtrbRcXAN3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613601467137	Marionette	INFO	Listening on port 43415
+1613601467167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613601467179	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613601560157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IS6ro2xdIx3x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613601561791	Marionette	INFO	Listening on port 44713
+1613601561913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613601561922	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613601634365	Marionette	INFO	Stopped listening on port 44713
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613601848592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.60ja6bwrw5y8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613601850375	Marionette	INFO	Listening on port 41803
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613601850424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613601850434	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613601886376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mx3ZYtGEmnWm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613601888225	Marionette	INFO	Listening on port 38717
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613601888294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613601888303	Marionette	ERROR	[15] No reply from Marionette:Register
+1613601892465	Marionette	INFO	Stopped listening on port 43415
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613601893780	Marionette	INFO	Stopped listening on port 41803
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613601967866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7WIh0WzQ8Vsc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613601969591	Marionette	INFO	Listening on port 37445
+1613601969684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613601969693	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613601970090	Marionette	INFO	Stopped listening on port 38717
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613602116182	Marionette	INFO	Stopped listening on port 37445
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613602118616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XHNTI3m2WGJm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613602120386	Marionette	INFO	Listening on port 40501
+1613602120435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613602120443	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1613602138653	Marionette	INFO	Stopped listening on port 40501
+1613602223470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oLdADZNYVaE6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613602225081	Marionette	INFO	Listening on port 35317
+1613602225200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613602225211	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613602299750	Marionette	INFO	Stopped listening on port 35317
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613602388713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cofU0cywrA5z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613602390406	Marionette	INFO	Listening on port 41487
+1613602390437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613602390451	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613602810075	Marionette	INFO	Stopped listening on port 41487
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gdk-Message: 00:04:28.665: /usr/lib/firefox/firefox: Fatal IO error 11 (Risorsa temporaneamente non disponibile) on X server :0.
+
+Gdk-Message: 00:04:28.665: /usr/lib/firefox/firefox: Fatal IO error 11 (Risorsa temporaneamente non disponibile) on X server :0.
+
+Gdk-Message: 00:04:28.666: /usr/lib/firefox/firefox: Fatal IO error 11 (Risorsa temporaneamente non disponibile) on X server :0.
+
+Gdk-Message: 00:04:28.666: /usr/lib/firefox/firefox: Fatal IO error 11 (Risorsa temporaneamente non disponibile) on X server :0.
+
+Gdk-Message: 00:04:28.665: /usr/lib/firefox/firefox: Fatal IO error 11 (Risorsa temporaneamente non disponibile) on X server :0.
+
+Gdk-Message: 00:04:28.673: /usr/lib/firefox/firefox: Fatal IO error 11 (Risorsa temporaneamente non disponibile) on X server :0.
+
+Gdk-Message: 00:04:28.687: firefox: Fatal IO error 11 (Risorsa temporaneamente non disponibile) on X server :0.
+
+Gdk-Message: 00:04:28.704: firefox: Fatal IO error 11 (Risorsa temporaneamente non disponibile) on X server :0.
+
+1613638538588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x4mmGNbYUkBF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613638540214	Marionette	INFO	Listening on port 38911
+1613638540316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613638540324	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://supermercatideco.multicedi.it/web/js/jquery-1.11.2.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1613638542109	Marionette	INFO	Stopped listening on port 38911
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
