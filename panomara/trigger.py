@@ -19,7 +19,7 @@ while True:
         sys.exit()
     extProc = sp.Popen(['python', 'get_pam_products.py'])  # runs myPyScript.py
     status = sp.Popen.poll(extProc)  # status should be 'None'
-    time.sleep(3600)
+    time.sleep(2000)
     sp.Popen.terminate(extProc)  # closes the process
     status = sp.Popen.poll(extProc)  # status should now be something other than 'None' ('1' in my testing)
     time.sleep(60)
